@@ -1,0 +1,23 @@
+#viewport{
+    height: 200px;
+}
+.menu{
+    display: none;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: white;
+}
+.mobile-icon{
+    display: block;
+    float: right;
+    margin-right: 2%;
+}
+.menu li{
+    display: block;
+    margin-bottom: 10px;
+}
+.text-to-slider{
+    font-size: 20px;
+}
